@@ -12,7 +12,7 @@ import 'zone.js';
     A palindrome is a word, phrase or series of words that reads the same backwards and forwards. Example: 'kayak' is a palindrom, 'hello' is not a palindrom. <br /> <br />
     <br />
 
-    Part A: <br/>s
+    Part A: <br/>
     - Write a function to check if a string is a palyndrome. <br />
     - The check should take place directly during input. Use reactive forms (preferred) or template driven forms (only when using signals). Do not bind native DOM events.<br />
     - Show a text "Yes, it is a palindrome" or "No, it is not a palindrome" <br />
